@@ -41,8 +41,7 @@ body {
 }
 
 .top { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between; }
-.back { color: var(--muted); text-decoration: none; font-weight: 600; }
-.back:hover { color: var(--accent); }
+.brand { font-size: 1.4rem; font-weight: 800; letter-spacing: -0.02em; }
 
 .search { display: flex; flex: 1 1 18rem; max-width: 24rem; }
 .search input {
